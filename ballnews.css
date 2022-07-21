@@ -1,0 +1,184 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+h1.titre {
+	text-align: center;
+	font-size: 70px;
+	color: white;
+	font-family: fantasy;
+	}
+	
+img.logo {
+	width: 90px;
+	}
+
+
+
+div.h1 {
+	background-color: black;
+	height: 90px;
+	}
+
+	
+div.match {
+	background-color: white;
+	}
+	
+div.actus {
+	background-color: white;
+	}
+
+div.draft {
+	background-color: white;
+	}
+
+div.rank {
+	background-color: white;
+	}
+	
+div.vide {
+	background-color: white;
+	height: 300px
+	}
+
+
+div.body {
+	background-image: url("fond.png");
+	background-size: cover;
+	background-repeat:repeat;
+	}
+
+h1 {
+	text-align: center;
+	font-size: 70px;
+	font-family: fantasy;
+	}
+
+p { 
+	text-align: center;
+	font-size: 30px;
+	font-family: fantasy;
+	}
+
+
+
+table.titre {
+	margin :auto;
+	}
+
+table.menu {
+	margin :auto;
+	}
+
+td.menu {
+	text-align: center;
+	font-size: 30px;
+	font-family: fantasy;
+	}
+
+a.menu:link{color: white;}
+a.menu:visited{color: white;}
+
+a:link{color: black;}
+a:visited{color: black;}
+
+table.match {
+	margin :auto;
+	background-color: white;
+	}
+	
+td.match {
+	border: 5px solid orange;
+	background-color: black;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-size: 30px;
+	color: white;
+	font-family: fantasy; }
+
+img.equipe {
+	width: 50px;
+	}
+
+table.draft {
+	margin :auto;
+	background-color: white;
+	}
+	
+td.draft {
+	border: 5px solid orange;
+	background-color: black;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-size: 30px;
+	color: white;
+	font-family: fantasy; }
+	
+table.rank {
+	margin :auto;
+	background-color: white;
+	}
+	
+td.rank {
+	border: 5px solid orange;
+	background-color: black;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-size: 30px;
+	color: white;
+	font-family: fantasy; }
+	
+p.victoire {
+	font-size: 25px;
+	font-style: normal;
+	text-align: center;
+	color: green;
+	font-family: fantasy;}
+	
+p.defaite {
+	font-size: 25px;
+	font-style: normal;
+	text-align: center;
+	color: red;
+	font-family: fantasy;}
+
+td.equipe{
+	border: 5px solid orange;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-size: 30px;
+	font-family: fantasy;;
+}
+
+table.actus {
+	margin :auto;
+	background-color: white;
+	}
+	
+td.actus {
+	border: 5px solid orange;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-size: 30px;
+	color: white;
+	font-family: fantasy; }
+
+p.actus { 
+	text-align: center;
+	font-size: 30px;
+	color: black;
+	font-family: fantasy;
+	}
+
+img.actus {
+	width: 500px;
+	}
