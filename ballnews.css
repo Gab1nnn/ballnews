@@ -7,7 +7,7 @@ h1.titre {
 	text-align: center;
 	font-size: 70px;
 	color: white;
-	font-family: fantasy;
+	font-family: Impact, fantasy;
 	}
 	
 img.logo {
@@ -53,13 +53,13 @@ div.body {
 h1 {
 	text-align: center;
 	font-size: 70px;
-	font-family: fantasy;
+	font-family: Impact, fantasy;
 	}
 
 p { 
 	text-align: center;
 	font-size: 30px;
-	font-family: fantasy;
+	font-family: Impact, fantasy;
 	}
 
 
@@ -75,7 +75,7 @@ table.menu {
 td.menu {
 	text-align: center;
 	font-size: 30px;
-	font-family: fantasy;
+	font-family: Impact, fantasy;
 	}
 
 a.menu:link{color: white;}
@@ -97,7 +97,7 @@ td.match {
 	text-align: center;
 	font-size: 30px;
 	color: white;
-	font-family: fantasy; }
+	font-family: Impact, fantasy; }
 
 img.equipe {
 	width: 50px;
@@ -116,7 +116,7 @@ td.draft {
 	text-align: center;
 	font-size: 30px;
 	color: white;
-	font-family: fantasy; }
+	font-family: Impact, fantasy; }
 	
 table.rank {
 	margin :auto;
@@ -131,21 +131,21 @@ td.rank {
 	text-align: center;
 	font-size: 30px;
 	color: white;
-	font-family: fantasy; }
+	font-family: Impact, fantasy; }
 	
 p.victoire {
 	font-size: 25px;
 	font-style: normal;
 	text-align: center;
 	color: green;
-	font-family: fantasy;}
+	font-family: Impact, fantasy;}
 	
 p.defaite {
 	font-size: 25px;
 	font-style: normal;
 	text-align: center;
 	color: red;
-	font-family: fantasy;}
+	font-family: Impact, fantasy;}
 
 td.equipe{
 	border: 5px solid orange;
@@ -154,7 +154,7 @@ td.equipe{
 	margin-right: auto;
 	text-align: center;
 	font-size: 30px;
-	font-family: fantasy;;
+	font-family: Impact, fantasy;;
 }
 
 table.actus {
@@ -170,13 +170,13 @@ td.actus {
 	text-align: center;
 	font-size: 30px;
 	color: white;
-	font-family: fantasy; }
+	font-family: Impact, fantasy; }
 
 p.actus { 
 	text-align: center;
 	font-size: 30px;
 	color: black;
-	font-family: fantasy;
+	font-family: Impact, fantasy;
 	}
 
 img.actus {
