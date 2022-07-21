@@ -24,23 +24,23 @@ div.h1 {
 
 	
 div.match {
-	background-color: white;
+	background-color: FloralWhite;
 	}
 	
 div.actus {
-	background-color: white;
+	background-color:FloralWhite;
 	}
 
 div.draft {
-	background-color: white;
+	background-color: FloralWhite;
 	}
 
 div.rank {
-	background-color: white;
+	background-color: FloralWhite;
 	}
 	
 div.vide {
-	background-color: white;
+	background-color: FloralWhite;
 	height: 300px
 	}
 
@@ -90,11 +90,10 @@ a:visited{color: black;}
 
 table.match {
 	margin :auto;
-	background-color: white;
 	}
 	
 td.match {
-	border: 5px solid orange;
+	border: 5px solid chocolate;
 	background-color: black;
 	margin-left: auto;
 	margin-right: auto;
@@ -110,11 +109,10 @@ img.equipe {
 
 table.draft {
 	margin :auto;
-	background-color: white;
 	}
 	
 td.draft {
-	border: 5px solid orange;
+	border: 5px solid chocolate;
 	background-color: black;
 	margin-left: auto;
 	margin-right: auto;
@@ -126,11 +124,10 @@ td.draft {
 	
 table.rank {
 	margin :auto;
-	background-color: white;
 	}
 	
 td.rank {
-	border: 5px solid orange;
+	border: 5px solid chocolate;
 	background-color: black;
 	margin-left: auto;
 	margin-right: auto;
@@ -157,7 +154,7 @@ p.defaite {
 	font-weight: bold;}
 
 td.equipe{
-	border: 5px solid orange;
+	border: 5px solid chocolate;
 	background-color: white;
 	margin-left: auto;
 	margin-right: auto;
@@ -169,11 +166,10 @@ td.equipe{
 
 table.actus {
 	margin :auto;
-	background-color: white;
 	}
 	
 td.actus {
-	border: 5px solid orange;
+	border: 10px solid chocolate;
 	background-color: white;
 	margin-left: auto;
 	margin-right: auto;
